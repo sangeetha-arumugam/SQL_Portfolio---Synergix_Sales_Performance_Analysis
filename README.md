@@ -58,37 +58,37 @@ Explore the different tables that are present in the synergix database
    
 ## Data Analysis
 
-1.	**Sales Trend Analysis:**
+**Sales Trend Analysis:**
 
 •	Investigate sales trends over time to identify any significant declines or stagnations.
 
 •	Utilize subqueries to compare current sales data against historical performance.
 
-2.	**Customer Segmentation:**
+**Customer Segmentation:**
 
 •	Analyze customer demographics and purchasing behaviors to identify key segments.
 
 •	Determine if certain customer groups are underperforming in terms of sales.
 
-3.	**Product Performance:**
+**Product Performance:**
 
 •	Evaluate the sales performance of different product categories and individual products.
 
 •	Identify products with declining sales or those that have underperformed expectations.
 
-4.	**Promotions and Discounts Impact:**
+**Promotions and Discounts Impact:**
 
 •	Assess the effectiveness of discounts and promotional strategies in driving sales.
 
 •	Use subqueries to compare sales during promotional periods with non-promotional periods.
 
-5.	**Market and Regional Analysis:**
+**Market and Regional Analysis:**
 
 •	Analyze sales performance across different regions and markets.
 
 •	Identify regions with lower-than-expected sales growth and potential reasons.
 
-6.	**Competitor Analysis:**
+**Competitor Analysis:**
 
 •	Compare sales trends with industry benchmarks or competitors, if data is available.
 
