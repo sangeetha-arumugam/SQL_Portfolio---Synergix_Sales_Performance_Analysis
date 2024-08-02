@@ -55,6 +55,7 @@ Explore the different tables that are present in the synergix database
 5. Market and Regional Analysis
 
 6. Competitor Analysis
+   
 ## Data Analysis
 
 1.	**Sales Trend Analysis:**
