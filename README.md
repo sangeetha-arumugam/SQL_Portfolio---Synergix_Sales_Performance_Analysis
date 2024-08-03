@@ -7,15 +7,15 @@ The primary objective of this project is to leverage SQL analytical techniques, 
 ## Challenge
 Despite implementing various strategies, including discounts, promotions, and advertisements, the anticipated increase in sales has not materialized. The management suspects that underlying issues may be affecting sales performance, necessitating a deeper analysis to identify and address these challenges.
 ## Task
-1. Data Extraction: Utilize SQL queries to extract relevant data from the six tables.
+Data Extraction: Utilize SQL queries to extract relevant data from the six tables.
 
-2. Data Cleaning and Transformation: Ensure data accuracy and consistency through cleaning and transformation processes.
+Data Cleaning and Transformation: Ensure data accuracy and consistency through cleaning and transformation processes.
 
-3. Analytical Techniques:
+Analytical Techniques:
 
-3.1. Subqueries: To perform detailed comparative analyses, such as period-over-period comparisons or segment-specific performance.
+1. Subqueries: To perform detailed comparative analyses, such as period-over-period comparisons or segment-specific performance.
 
-3.2. LAG Function: To analyze trends over time, including month-on-month or year-on-year sales changes.
+2. LAG Function: To analyze trends over time, including month-on-month or year-on-year sales changes.
 
 ## Data & Resource Used
 
