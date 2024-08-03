@@ -13,9 +13,9 @@ Despite implementing various strategies, including discounts, promotions, and ad
 
 3. Analytical Techniques:
 
-o Subqueries: To perform detailed comparative analyses, such as period-over-period comparisons or segment-specific performance.
+3.1. Subqueries: To perform detailed comparative analyses, such as period-over-period comparisons or segment-specific performance.
 
-o LAG Function: To analyze trends over time, including month-on-month or year-on-year sales changes.
+3.2. LAG Function: To analyze trends over time, including month-on-month or year-on-year sales changes.
 
 ## Data & Resource Used
 
